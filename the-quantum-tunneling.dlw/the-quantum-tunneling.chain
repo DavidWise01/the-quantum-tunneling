@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1705
+slug  : the-quantum-tunneling
+seal  : 29e1d804bc61240ed5d4b1cdd101bbfc1d36a10d262ca4935948b75beb00ac42
+prev  : 224fb981c12145b05113675feb5ca862d0ff5d54a64a1978f4faf4b79e2af3c2
+link  : 6acc66b98250f9fa167cc561dc18698a21b38e665953cb93c57346e8315167bd
+head  : 6acc66b98250f9fa167cc561dc18698a21b38e665953cb93c57346e8315167bd
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
